@@ -1,0 +1,10 @@
+{
+  "name": "FloraCare - AI Plant Identifier & Garden Assistant",
+  "description": "Instant plant identification from photos, visual health diagnostics, tailored botanical care schedules, watering tracker, and garden collection journal.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
